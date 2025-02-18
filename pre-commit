@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "🔍 Exécution du linter..."
+
+
